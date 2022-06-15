@@ -10,7 +10,7 @@ import { ClienteDeleteComponent } from './components/cliente/cliente-delete/clie
 import { ClienteListComponent } from './components/cliente/cliente-list/cliente-list.component';
 import { ClienteUpdateComponent } from './components/cliente/cliente-update/cliente-update.component';
 import { HomeComponent } from './components/home/home.component';
-import { LoginComponent } from './components/login/login.component';
+import { LoginComponent } from "./components/login/login.component";
 import { NavComponent } from './components/nav/nav.component';
 import { TecnicoCreateComponent } from './components/tecnico/tecnico-create/tecnico-create.component';
 import { TecnicoDeleteComponent } from './components/tecnico/tecnico-delete/tecnico-delete.component';
